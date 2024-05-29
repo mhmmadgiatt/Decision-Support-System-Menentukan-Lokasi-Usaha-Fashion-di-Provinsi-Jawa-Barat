@@ -17,6 +17,11 @@ Proyek ini mengembangkan Sistem Penunjang Keputusan berbentuk website untuk mene
 
 ![Website Preview1](https://github.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/raw/main/preview3.jpg)
 
+## Link Dataset
+
+[Dataset Proyek](https://drive.google.com/drive/folders/1wtXWrKTxGY5ubJOEHcBA8_3p4W2GgFve?usp=sharing)
+
+
 ## Instalasi dan Penggunaan
 
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
