@@ -5,11 +5,17 @@
 Proyek ini mengembangkan Sistem Penunjang Keputusan berbentuk website untuk menentukan lokasi usaha fashion di Provinsi Jawa Barat dengan menggunakan Metode Technique for Others Preference by Similar (TOPSIS). Provinsi Jawa Barat dengan populasi mencapai 48 juta jiwa, memiliki sektor perdagangan fashion yang berkembang pesat. Proyek ini bertujuan membangun sistem pendukung keputusan untuk membantu pebisnis fashion menentukan lokasi usaha optimal di Kota/Kabupaten Jawa Barat
 
 ## Preview Website
-1. ![Website Preview1](https://raw.githubusercontent.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/preview1.jpg)
+- Tampilan Awal Website
 
-2. ![Website Preview1](https://raw.githubusercontent.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/preview2.jpg)
+![Website Preview1](https://github.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/raw/main/preview1.jpg)
 
-3. ![Website Preview1](https://raw.githubusercontent.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/preview3.jpg)
+- Input Bobot Kriteria dan Alternatif Kriteria
+
+![Website Preview1](https://github.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/raw/main/preview2.jpg)
+
+- Hasil Perhitungan
+
+![Website Preview1](https://github.com/mhmmadgiatt/Decision-Support-System-Menentukan-Lokasi-Usaha-Fashion-di-Provinsi-Jawa-Barat/raw/main/preview3.jpg)
 
 ## Instalasi dan Penggunaan
 
